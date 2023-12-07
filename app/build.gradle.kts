@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.nathanielzareno_block6_quiz"
-    compileSdk = 33
+    namespace = "com.zarenonathanielblock6p1quiz.nathanielzareno_block6_quiz"
+    compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.nathanielzareno_block6_quiz"
+        applicationId = "com.zarenonathanielblock6p1quiz.nathanielzareno_block6_quiz"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

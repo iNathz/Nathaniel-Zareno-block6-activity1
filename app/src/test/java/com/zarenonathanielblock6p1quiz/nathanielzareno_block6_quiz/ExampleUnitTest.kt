@@ -1,4 +1,4 @@
-package com.example.nathanielzareno_block6_quiz
+package com.zarenonathanielblock6p1quiz.nathanielzareno_block6_quiz
 
 import org.junit.Test
 
