@@ -24,6 +24,14 @@ import android.widget.TextView
         btnSub = findViewById(R.id.button_sub)
         btnMul = findViewById(R.id.button_mul)
         btnDiv = findViewById(R.id.button_div)
+        etF = findViewById(R.id.et_f)
+        etS = findViewById(R.id.et_s)
+        resultTV = findViewById(R.id.result_TV)
+
+        btnAdd.setOnClickListener(this)
+        btnSub.setOnClickListener(this)
+        btnMul.setOnClickListener(this)
+        btnDiv.setOnClickListener(this)
     }
 
      override fun onClick(v: View?) {
